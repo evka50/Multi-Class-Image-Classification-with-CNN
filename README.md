@@ -16,7 +16,7 @@ Multi - Class Image Classification using Convolutional Neural Network
  
  **CNN architecture**
  
-         Model: "sequential_1"
+        Model: "sequential_1"
         _________________________________________________________________
         Layer (type)                 Output Shape              Param #   
         =================================================================
@@ -53,3 +53,12 @@ Multi - Class Image Classification using Convolutional Neural Network
  
  Test Accuracy (after 10 epochs): **0.87**
  
+ ##
+ 
+ **Tools**
+ 
+ - Keras
+ - Tensorflow
+ - scikit-learn (for splitting the dataset)
+ - jupyter notebook
+ - Pillow (Python Image Library)

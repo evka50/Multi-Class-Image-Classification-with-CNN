@@ -5,7 +5,7 @@ Multi - Class Image Classification using Convolutional Neural Network
 
 **Main dataset**
   - **url source:** https://www.kaggle.com/trolukovich/apparel-images-dataset
-  - **size:** consists of 24 categories
+  - **size:** 11385 images - 24 categories
  
  We, later, split the dataset to:
   1. Training data

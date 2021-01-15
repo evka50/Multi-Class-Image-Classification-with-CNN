@@ -9,8 +9,8 @@ Multi - Class Image Classification using Convolutional Neural Network
  
  We, later, split the dataset to:
   1. Training data
-  2. Validation data
-  3. Test data
+  2. Validation data --> 20%
+  3. Test data --> 20%
   
  ##
  
